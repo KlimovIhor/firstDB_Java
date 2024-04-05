@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "sping.jpa.hibernate.dll-auto",
+      "type": "java.lang.String",
+      "description": "Description for sping.jpa.hibernate.dll-auto."
+    },
+    {
+      "name": "sping.jpa.show-sql",
+      "type": "java.lang.String",
+      "description": "Description for sping.jpa.show-sql."
+    },
+    {
+      "name": "sping.jpa.properties.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for sping.jpa.properties.hibernate.dialect."
+    },
+    {
+      "name": "spring.jpa.properties-sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.properties-sql."
+    }
+  ] }
